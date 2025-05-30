@@ -1,0 +1,33 @@
+
+
+
+
+body{
+    background-color: lightgrey ;
+
+}
+
+header{
+    color: blueviolet;
+   border-bottom-color: darksalmon; 
+   align-self: center;
+   background-color: antiquewhite;
+   text-align: center;
+   
+  
+  
+
+}
+
+.imagen{
+    width: 700px;
+    align-content: center;
+}
+
+h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+div{
+    align-self: center;
+}
